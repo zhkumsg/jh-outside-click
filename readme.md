@@ -137,7 +137,7 @@ If there is no mask layer element, how do you achieve the translucent effect of 
 
 `outline` can help us solve the problem, set a size large enough.
 
-```json
+```css
 {
   rgba(0,0,0,0.8) solid 9999px
 }
