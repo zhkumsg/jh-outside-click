@@ -1,0 +1,23 @@
+{
+	"name": "jh-outside-click",
+	"version": "1.0.0",
+	"description": "outside click directive for vue",
+	"main": "lib/index.js",
+	"scripts": {
+		"build": "babel ./src --presets babel-preset-es2015 --out-dir ./lib"
+	},
+	"keywords": [
+		"outside",
+		"click",
+		"junhai",
+		"moshenggui",
+		"msg",
+		"vue"
+	],
+	"author": "moshenggui",
+	"license": "ISC",
+	"devDependencies": {
+		"babel-cli": "^6.26.0",
+		"babel-preset-es2015": "^6.24.1"
+	}
+}

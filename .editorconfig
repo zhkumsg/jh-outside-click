@@ -1,0 +1,10 @@
+# 需要安装EditorConfig for VS Code拓展
+root = true #以该文件作为根配置无需继续向上查找
+
+[*] #对所有文件适用
+charset = utf-8 #使用utf-8编码
+indent_style = space #使用空格
+indent_size = 2 #2个缩进
+end_of_line = lf #lf结尾
+insert_final_newline = true #结尾自动添加空行
+trim_trailing_whitespace = true #去除行末空格
